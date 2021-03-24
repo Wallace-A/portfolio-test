@@ -28,30 +28,39 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'mimic_landing.png',
+    title: 'Mimic\'s Blackberry',
+    info: 'Co-Developer',
+    info2: 'More stuff',
+    url: 'https://www.mimics-blackberry.com/',
+    repo: 'https://github.com/blamb888/mimics-blackberry', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'costume_landing.png',
+    title: 'Costume Rental / Airbnb Clone',
+    info: 'Co-Developer',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://rails-costume-airbnb-clone.herokuapp.com/',
+    repo: 'https://github.com/blamb888/rails-costume-airbnb-clone', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'warband_landing.png',
+    title: 'Fictional Warband Creator',
+    info: 'Solo Project',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'http://rails-warband-creator.herokuapp.com/',
+    repo: 'https://github.com/Wallace-A/rails_warband_creator', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'noirflix_landing.png',
+    title: 'Noirflix',
+    info: 'Solo Project',
+    info2: '',
+    url: 'https://noirflix.web.app/',
+    repo: 'https://github.com/Wallace-A/noirflix-react-netflix-clone-', // if no repo, the button will not show up
   },
 ];
 
