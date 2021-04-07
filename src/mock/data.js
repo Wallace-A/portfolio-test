@@ -53,15 +53,6 @@ export const projectsData = [
     url: 'http://rails-warband-creator.herokuapp.com/',
     repo: 'https://github.com/Wallace-A/rails_warband_creator', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'noirflix_landing.png',
-    title: 'Noirflix (Solo Project)',
-    info: 'Do you like detective movies? A netflix clone built over a weekend to learn React.',
-    info2: 'HTML / CSS / Javascript / React',
-    url: 'https://noirflix.web.app/',
-    repo: 'https://github.com/Wallace-A/noirflix-react-netflix-clone-', // if no repo, the button will not show up
-  },
 ];
 
 // CONTACT DATA
