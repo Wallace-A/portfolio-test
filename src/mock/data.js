@@ -41,8 +41,8 @@ export const projectsData = [
     title: 'Movie Watch List (Solo Project)',
     info: 'Movie watchlist app built over a weekend to learn React. Uses movie database API to search for movies and add them to a watchlist.',
     info2: 'HTML / CSS / Javascript / React / Firebase',
-    url: 'https://rails-costume-airbnb-clone.herokuapp.com/',
-    repo: 'https://react-watchlist-f4888.web.app/', // if no repo, the button will not show up
+    url: 'https://react-watchlist-f4888.web.app/',
+    repo: 'https://github.com/Wallace-A/react-watchlist', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
